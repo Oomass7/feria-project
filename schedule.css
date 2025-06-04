@@ -1,0 +1,18 @@
+body {
+    background-color: #01161c;
+}
+
+.card-img-top {
+    width: auto;
+    height: auto;
+}
+
+.card {
+    --bs-card-bg: #227de3b3;
+    color: #000000;
+    --bs-card-border-color: rgb(0 255 245);
+}
+
+p {
+    color: white;
+}
